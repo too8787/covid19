@@ -7474,13 +7474,13 @@ h1, h2, h3, h4, h5,
     content: '';
     opacity: .7;
     background: #167ce9;
-    background: -moz-linear-gradient(45deg, #167ce9 0%, #44668f 100%);
-    background: -webkit-gradient(left bottom, right top, color-stop(0%, #167ce9), color-stop(100%, #44668f));
-    background: -webkit-linear-gradient(45deg, #167ce9 0%, #44668f 100%);
-    background: -o-linear-gradient(45deg, #167ce9 0%, #44668f 100%);
-    background: -ms-linear-gradient(45deg, #167ce9 0%, #44668f 100%);
-    background: linear-gradient(45deg, #167ce9 0%, #44668f 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#167ce9', endColorstr='#44668f', GradientType=1 ); }
+    background: -moz-linear-gradient(45deg, #167ce9 0%, #73bef0 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, #167ce9), color-stop(100%, #73bef0));
+    background: -webkit-linear-gradient(45deg, #167ce9 0%, #73bef0 100%);
+    background: -o-linear-gradient(45deg, #167ce9 0%, #73bef0 100%);
+    background: -ms-linear-gradient(45deg, #167ce9 0%, #73bef0 100%);
+    background: linear-gradient(45deg, #167ce9 0%, #73bef0 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#167ce9', endColorstr='#73bef0', GradientType=1 ); }
 
 .slider-text {
   color: #fff;
